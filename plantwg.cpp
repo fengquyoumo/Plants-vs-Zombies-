@@ -1,5 +1,4 @@
 ﻿// plantwg.cpp : 此文件包含 "main" 函数。程序执行将在此处开始并结束。
-//偏移地址： http://blog.sina.com.cn/s/blog_5063662f01014it9.html
 
 #include "pch.h"
 #include <iostream>
